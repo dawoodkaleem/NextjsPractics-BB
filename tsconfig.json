@@ -34,9 +34,11 @@
     "src/tailwindcss.d.ts",
     "types/**/*" // Add this line if it's not recognized
     ,
-    ".next/types/**/*.ts"
+    ".next/types/**/*.ts",
+    
   ],
   "exclude": [
     "node_modules"
   ]
+ 
 }
