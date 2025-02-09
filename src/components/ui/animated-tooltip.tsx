@@ -8,7 +8,7 @@ import {
   useMotionValue,
   useSpring,
 } from "framer-motion";
-// function for animted tooltip
+
 export const AnimatedTooltip = ({
   items,
 }: {
